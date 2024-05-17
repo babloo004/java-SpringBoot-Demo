@@ -107,6 +107,3 @@ When you run the application, SpringBoot starts up and the `Alien` bean is creat
 
 Feel free to contribute to this project by submitting pull requests. Please ensure that your contributions adhere to the project's coding standards and best practices.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
